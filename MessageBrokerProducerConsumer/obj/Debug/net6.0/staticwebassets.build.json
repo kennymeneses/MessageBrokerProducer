@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Au7fux7pUyzdctRRVKGZRyM0+85ziWf3/Z72xpc+uuU=",
+  "Source": "MessageBrokerProducerConsumer",
+  "BasePath": "_content/MessageBrokerProducerConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
